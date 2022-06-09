@@ -1,34 +1,39 @@
 {
   "events": [
     {
-      "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
-      "organizer": "Kat Laydee"
+      "id": 459616,
+      "url": "https://images5.alphacoders.com/459/459616.jpg",
+      "resolution": "1920x1080",
+      "size": "688.33 KB",
+      "type": "JPG"
     },
     {
-      "id": 456,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
-      "time": "10:00",
-      "organizer": "Fern Pollin"
+      "id": 80484,
+      "url": "https://images4.alphacoders.com/804/80484.jpg",
+      "resolution": "1920x1080",
+      "size": "1.39 MB",
+      "type": "JPG"
     },
     {
-      "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
-      "organizer": "Carey Wales"
-    }
+      "id": 313095,
+      "url": "https://images5.alphacoders.com/313/313095.jpg",
+      "resolution": "1920x1080",
+      "size": "1.13 MB",
+      "type": "JPG"
+    }, 
+    {
+      "id": 444982,
+      "url": "https://images5.alphacoders.com/444/444982.jpg",
+      "resolution": "1920x1080",
+      "size": "337.24 kB",
+      "type": "JPG"
+    },
+    {
+      "id": 120288,
+      "url": "https://images4.alphacoders.com/120/120288.jpg",
+      "resolution": "1920x1080",
+      "size": "367.46 kB",
+      "type": "JPG"
+    },
   ]
 }
